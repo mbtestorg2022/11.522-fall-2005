@@ -166,7 +166,7 @@ Land Use Planning Purpose:
   
 Landis, John. "Characterizing Urban Land Capacity: Alternative Approaches and Methodologies." In _Land Market Monitoring for Smart Urban Growth_. Edited by Gerrit Knaap. Cambridge, MA: Lincoln Institute of Land Policy, 2002. ISBN: 155844145X.  
   
-Review of Raj Singh's PhD Dissertation: "Collaborative Urban Information Systems: A Web Services Approach." Chapter 1 of Dissertation. Cambridge, MA: MIT, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/raj_disseratn_c1))
+Review of Raj Singh's PhD Dissertation: "Collaborative Urban Information Systems: A Web Services Approach." Chapter 1 of Dissertation. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/resources/raj_disseratn_c1))
 {{< tdclose >}}
 
 {{< trclose >}}
