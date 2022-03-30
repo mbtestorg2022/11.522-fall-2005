@@ -4,6 +4,7 @@ description: This resource contains notes based on urban growth along with discu
   questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/1e7c94c4bda832bfd28ebc1ade8936d6_notes_6.pdf
 file_type: application/pdf
+parent_uid: 66cbfa93-fbf1-612f-ab86-751f48431471
 resourcetype: Document
 title: notes_6.pdf
 uid: 1e7c94c4-bda8-32bf-d28e-bc1ade8936d6
